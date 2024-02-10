@@ -1,3 +1,4 @@
 # SpringBootApi
-Spring Sts , Spring JPA etc </br>
-Author - Mr. Rahul Kumar
+
+Spring Sts , Spring JPA e.t.c </br>
+Author - Rahul Kumar
